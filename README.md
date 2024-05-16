@@ -1,6 +1,10 @@
 # flagellinolysinDB
 A database of flagellinolysin proteins identified from the NCBI and other databases
 
+* Date Updated: May 16, 2024
+* Total Number of flagellinolysin proteins: 541
+* Identification method: All protein domain architectures containing a (NF033876: flagella_HExxH) domain were examined. Those containing a protease (flagella_HExxH) domain as well as one or more additional flagellin domains were identified.
+
 
 | Number | Description | Accession | Species |
 | --- | --- | --- | --- |
