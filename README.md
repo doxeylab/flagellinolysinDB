@@ -1,5 +1,5 @@
 # flagellinolysinDB
-A database of flagellinolysin proteins identified from the NCBI and other databases
+A database of flagellinolysin proteins identified from the NCBI
 
 * Date Updated: May 16, 2024
 * Total Number of flagellinolysin proteins: 541
