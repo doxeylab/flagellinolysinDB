@@ -1,4 +1,4 @@
-# flagellinolysinDB
+# Flagellinolysin-DB
 A database of flagellinolysin proteins identified from the NCBI
 
 * Date Updated: May 16, 2024
